@@ -1,0 +1,8 @@
+POST http://localhost:3000/api/appointments/
+
+{
+    "nomePaciente": "Joao Matheus",
+    "nomeDoutor": "Dra. Mariana Lima",
+    "data": "2024-11-25T10:00:00.000Z",
+    "descricao": "Extração",
+}
